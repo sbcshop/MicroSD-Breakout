@@ -6,9 +6,11 @@ This is a Micro SD card reader module that runs on 3.3V and uses the SPI interfa
 
 ## Circuit diagram
 
+<img src= "https://github.com/sbcshop/MicroSD-Breakout/blob/main/images/sd.JPG" />
+
 ## Code
  In this file, you see two python files
- * sdcard.py -> this file contain the library of sd card module, you need to save this file to pico
+ * sdcard.py -> this file contain the library of the sd card module, you need to save this file to pico
  * sd.py     -> this file you need to run, save this file to pico
 
   
