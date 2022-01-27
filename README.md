@@ -6,8 +6,8 @@ This is a Micro SD card reader module that runs on 3.3V and uses the SPI interfa
 
 ## Code
 In this file, you see two python files
-   *
-   *
+    * sdcard.py
+    * sd.py
 
   
 
