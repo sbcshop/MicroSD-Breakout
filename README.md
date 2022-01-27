@@ -8,6 +8,12 @@ This is a Micro SD card reader module that runs on 3.3V and uses the SPI interfa
 
 <img src= "https://github.com/sbcshop/MicroSD-Breakout/blob/main/images/sd.JPG" />
 
+## For setup the Board in Thonny </b>
+* Now connect USB Cable on USB Port of Pico.
+* Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
+
+<img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
+
 ## Code
  In this file, you see two python files
  * sdcard.py -> this file contain the library of the sd card module, you need to save this file to pico
