@@ -21,7 +21,7 @@ This is a Micro SD card reader module that runs on 3.3V and uses the SPI interfa
 
 ## Working
 
-<img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/img.jpg" />
+<img src="https://github.com/sbcshop/MicroSD-Breakout/blob/main/images/img.jpg" />
  
 
 
